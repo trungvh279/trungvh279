@@ -1,0 +1,457 @@
+WEBVTT
+Kind: captions
+Language: vie-VN
+Channel: CC1
+Station: Online ABC
+ProgramID: SH010855880000
+ProgramType: TV series
+ProgramName: Castle
+Title: Law & Murder
+Season: 3
+Episode: 19
+PublishDate: 2011-03-28
+ContentAdvisory: TV-14
+
+STYLE
+/* Default cue styling */
+::cue {
+	background-image: linear-gradient(to bottom, dimgray, lightgray);
+	color: blue;
+}
+/* Classes that can be applied to individual cues or phrases */
+::cue(.bg-yellow) {
+	background-color: yellow; 
+}
+::cue(.red) { 
+	color: blue; 
+}
+
+00:00:45.860 --> 00:00:49.030 line:20%
+TRĂNG LÊN BAN NGÀY
+
+00:00:49.090 --> 00:00:53.000
+<b>TẤT CẢ NHÂN VẬT, ĐỊA ĐIỂM, TỔ CHỨC,
+SỰ KIỆN TRONG PHIM ĐỀU LÀ HƯ CẤU</b>
+
+00:00:53.330 --> 00:00:55.739
+<i>1.500 NĂM TRƯỚC</i>
+
+00:00:55.780 --> 00:00:58.090
+<u>Tộc Daegaya phản bội tộc Silla,</u>
+
+00:00:58.208 --> 00:01:01.745
+<c.red>CUỘC CHIẾN TRANH
+KHIẾN DAEGAYA BỊ DIỆT VONG</c>
+
+00:01:02.130 --> 00:01:04.047
+<font face="Tahoma">nên đức vua đã cử đội quân hùng mạnh</c>
+
+00:01:05.080 --> 00:01:06.860
+<font size="100">đi chinh phạt họ.</c>
+
+00:01:51.590 --> 00:01:53.510
+<i>Tấn</i> công!
+
+00:01:53.630 --> 00:01:56.510
+Chúng ta<b> là người </b>Gaya!
+
+00:02:11.230 --> 00:02:13.780
+Tấn công!
+
+00:02:32.430 --> 00:02:34.670
+<b>Mệnh lệnh của <u>Đại tướng</u> quân!</b>
+
+00:02:35.120 --> 00:02:37.460
+<c.color80ff80>Chiến đấu đến hơi thở</c> cuối cùng!
+
+00:02:40.770 --> 00:02:44.680 line:50%
+Không được làm mất
+niềm kiêu hãnh của người Gaya!
+
+00:02:45.680 --> 00:02:48.520 position:20%
+Cuộc chiến không khác gì địa ngục này
+
+00:02:50.470 --> 00:02:52.520 line:50%
+Cuộc chiến không khác gì địa ngục này
+
+00:02:56.540 --> 00:02:58.080 line:50%
+phải nhanh chóng chấm dứt thôi.
+
+00:03:30.890 --> 00:03:32.200 line:50%
+Không còn nhiều thời gian nữa.
+
+00:03:32.760 --> 00:03:36.650 line:50%
+Bắt hết người thân
+của Đại tướng quân Gaya cho ta.
+
+00:03:37.140 --> 00:03:38.440 line:50%
+Tuân lệnh!
+
+00:03:51.180 --> 00:03:53.310 line:50%
+- Đứng đó làm gì? Vào đi.
+- Vâng.
+
+00:03:57.230 --> 00:03:58.979 line:50%
+Mở cửa ra!
+
+00:03:58.980 --> 00:04:00.840 position:20% line:50%
+Có mở cửa ra không?
+
+00:04:00.920 --> 00:04:01.980 position:20% line:50%
+Quân Silla đấy.
+
+00:04:02.260 --> 00:04:04.199 position:20% line:50%
+- Mẫu thân, con xin người.
+- Mau mở cửa ra.
+
+00:04:04.200 --> 00:04:06.260 position:20% line:50%
+- Mau lên đi.
+- Mở cửa ra mau.
+
+00:04:06.480 --> 00:04:07.480 position:20% line:50%
+Mẫu thân.
+
+00:04:07.481 --> 00:04:08.580 position:20% line:50%
+Tránh ra mau.
+
+00:04:08.820 --> 00:04:11.360 position:20% line:50%
+Mẫu thân, xin người đó.
+Mẫu thân, xin đừng mà.
+
+00:04:11.620 --> 00:04:13.840 position:20% line:50%
+Mẫu thân! Mẫu...
+
+00:04:16.090 --> 00:04:17.350 position:20% line:50%
+Mẫu thân.
+
+00:04:19.560 --> 00:04:20.760 position:80% line:50%
+Ở đây.
+
+00:04:22.930 --> 00:04:25.610 position:10%,line-left align:left size:35%
+Phu nhân và tiểu thư
+của Đại tướng quân đang ở đây.
+
+00:04:27.630 --> 00:04:29.280 position:80% line:50%
+- Mẫu thân.
+- Bỏ ta ra.
+
+00:04:29.860 --> 00:04:30.910 position:80% line:50%
+Mẫu thân.
+
+00:04:34.660 --> 00:04:36.710 position:80% line:50%
+Bỏ ta ra. Bỏ ra mau.
+
+00:04:37.750 --> 00:04:39.180 position:80% line:50%
+Đừng lắm lời, đi theo ta mau.
+
+00:04:41.480 --> 00:04:45.600 position:80% line:50%
+- Đừng giở trò ngu ngốc.
+- Mẫu thân.
+
+00:05:20.530 --> 00:05:21.530 position:80% line:50%
+Nhìn đi.
+
+00:05:25.490 --> 00:05:27.210 position:20%
+Các ngươi hãy mở to mắt mà nhìn.
+
+00:05:30.450 --> 00:05:32.340 position:20%
+Niềm kiêu hãnh của các ngươi đấy.
+
+00:05:38.310 --> 00:05:41.150 position:20%
+Niềm kiêu hãnh cuối cùng
+của người Gaya.
+
+00:05:59.130 --> 00:06:01.560 position:20%
+Các ngươi không bị ép phải chết nữa.
+
+00:06:02.050 --> 00:06:04.490 position:20%
+Quyền lựa chọn
+nằm trong tay các ngươi rồi.
+
+00:06:05.660 --> 00:06:07.610 position:20%
+Kẻ muốn tiếp tục chiến đấu
+sẽ phải chết.
+
+00:06:10.200 --> 00:06:11.750 position:20%
+Những kẻ cầu xin sống sót
+
+00:06:13.040 --> 00:06:15.180 position:20%
+thì sẽ được bọn ta
+rộng lòng thương xót.
+
+00:06:17.620 --> 00:06:19.420 position:20%
+Dù cứu được nhiều người,
+
+00:06:22.690 --> 00:06:24.734 position:80%
+nhưng máu đã phải đổ thành sông.
+
+00:06:31.160 --> 00:06:32.240 position:80%
+Và ngày hôm đó...
+
+00:06:43.440 --> 00:06:44.810 position:80%
+ta đã gặp nàng.
+
+00:07:39.860 --> 00:07:41.300 position:80%
+Ai phái ngươi tới đây?
+
+00:07:42.430 --> 00:07:44.948 position:80%
+Gia quyến và phụ mẫu của ta
+bị ngươi sát hại
+
+00:07:45.048 --> 00:07:46.470 position:80%
+đã phái ta đến đây.
+
+00:07:47.620 --> 00:07:50.150 position:80%
+Ngươi muốn đi theo phụ mẫu sao?
+
+00:07:50.780 --> 00:07:52.230 position:80%
+Dù là mũi tên hay thanh kiếm,
+
+00:07:52.830 --> 00:07:54.980 position:80%
+ta nhất định sẽ cắm vào ngực đại nhân.
+
+00:08:32.210 --> 00:08:35.040 position:80%
+Ta vẫn bị kẹt lại ở nơi này.
+
+00:08:39.280 --> 00:08:40.910 position:80%
+Còn nàng thì...
+
+00:08:42.240 --> 00:08:43.850 position:80%
+đã trải qua muôn đời muôn kiếp.
+
+00:09:07.190 --> 00:09:08.865 position:80% line:20%
+Nàng cứ đi đến bất cứ đâu đi.
+
+00:09:11.820 --> 00:09:13.503 position:80% line:20%
+Ta nhất định
+
+00:09:14.938 --> 00:09:16.240 position:80% line:20%
+sẽ tìm đến nàng.
+
+00:09:30.620 --> 00:09:35.190 position:80% line:20%
+TRĂNG LÊN BAN NGÀY
+TẬP 1
+
+00:09:44.380 --> 00:09:47.420 position:80% line:20%
+Sao mồ hôi đầm đìa vậy? Em khóc đấy à?
+
+00:09:48.090 --> 00:09:49.260 position:80% line:20%
+Em ấy hả?
+
+00:09:49.810 --> 00:09:51.070 position:80% line:20%
+Khóc cái gì.
+
+00:09:51.940 --> 00:09:54.260 line:20%
+- Không biết nữa, em không nhớ.
+- Lại đây.
+
+00:09:55.230 --> 00:09:56.720 line:20%
+Không sốt. Để xem nào.
+
+00:09:58.250 --> 00:10:00.170 line:20%
+Mắt cũng bình thường này.
+
+00:10:00.540 --> 00:10:03.470 line:20%
+Để em cho anh xem
+em có bình thường hay không nhé?
+
+00:10:03.870 --> 00:10:06.339 line:20%
+Này, nhìn cô ấy kìa.
+Phải đưa đi khám thôi.
+
+00:10:06.340 --> 00:10:07.819 line:20%
+Anh thôi hộ em cái.
+
+00:10:07.820 --> 00:10:09.310 line:20%
+Đâu phải mỗi anh xem phim "Trauma".
+
+00:10:09.359 --> 00:10:11.909 position:20% line:20%
+Vậy sao cô ấy không nhớ gì?
+
+00:10:11.910 --> 00:10:14.909 position:20% line:20%
+Trong khi mồ hôi đổ đầm đìa,
+lại còn la hét nữa.
+
+00:10:14.910 --> 00:10:17.100 position:20% line:20%
+Anh nói quá rồi đấy, la hét cái gì.
+
+00:10:21.170 --> 00:10:24.390 position:20% line:20%
+Anh em bảo mơ mà không nhớ gì
+chứng tỏ là ngủ ngon.
+
+00:10:35.260 --> 00:10:37.330 position:20% line:20%
+Không lẽ mình phải đi khám thật à?
+
+00:10:43.050 --> 00:10:46.080 position:20% line:20%
+Sao mình gặp ác mộng
+mà không nhớ được gì nhỉ?
+
+00:10:49.180 --> 00:10:51.880 position:20% line:20%
+Mà thôi, kệ đi. Ngủ ngon là được.
+
+00:10:54.370 --> 00:10:56.410 position:20% line:20%
+Báo cháy khẩn cấp!
+
+00:11:08.680 --> 00:11:10.160 position:20% line:20%
+- Di chuyển.
+- Di chuyển.
+
+00:11:12.350 --> 00:11:13.450 position:20% line:20%
+Cẩn thận!
+
+00:11:14.270 --> 00:11:15.470 position:20% line:20%
+Cẩn thận!
+
+00:11:17.040 --> 00:11:19.229
+Cho tôi xem nào.
+
+00:11:19.230 --> 00:11:20.729
+Có chuyện gì vậy?
+
+00:11:20.730 --> 00:11:23.209
+Có thấy ông chú mặc đồ tây không?
+
+00:11:23.210 --> 00:11:25.460
+Chúng tôi không thấy ai ở trong cả.
+
+00:11:25.550 --> 00:11:27.380
+Nhưng bọn tôi
+không thấy anh ta ở đâu cả.
+
+00:11:27.390 --> 00:11:30.480
+Anh ta không có nhà
+nên toàn ngủ tạm trong đó.
+
+00:11:30.500 --> 00:11:31.460
+Ừ.
+
+00:11:31.500 --> 00:11:34.119
+Mỗi lần nhà tôi vứt giấy
+thì anh ta đều đến lấy mà.
+
+00:11:34.120 --> 00:11:36.869
+Nhưng hôm qua đến giờ vẫn còn nguyên.
+
+00:11:36.870 --> 00:11:38.870
+Mọi người chờ nhé, để chúng tôi xử lý.
+
+00:11:39.510 --> 00:11:42.330
+Đội cứu trợ!
+Có khả năng vẫn còn người bên trong.
+
+00:11:45.330 --> 00:11:47.140
+Có thấy ai đâu nhỉ?
+
+00:11:53.250 --> 00:11:55.230
+Tiền bối, chị thấy gì à?
+
+00:11:55.640 --> 00:11:57.450
+- Có thấy ai đâu.
+- Trật tự đi.
+
+00:11:57.600 --> 00:11:58.901
+Sao vậy?
+
+00:12:05.720 --> 00:12:06.743
+Tiền bối.
+
+00:12:16.285 --> 00:12:18.580
+Phát hiện người cần cứu trợ.
+
+00:12:19.122 --> 00:12:20.780
+Anh ổn chứ?
+
+00:12:20.900 --> 00:12:22.350
+Anh ổn chứ?
+
+00:12:43.230 --> 00:12:44.280
+Tiền bối vất vả rồi.
+
+00:12:44.313 --> 00:12:45.730
+Làm tốt lắm.
+
+00:12:47.240 --> 00:12:50.400
+Hai, ba, bốn, năm, sáu, bảy...
+
+00:12:55.260 --> 00:12:56.900
+Chị đừng cố nữa.
+
+00:12:57.350 --> 00:12:58.860
+Chị à, mình chậm mất rồi.
+
+00:13:04.350 --> 00:13:05.780
+Nó vẫn sống à?
+
+00:13:06.010 --> 00:13:08.089
+Ôi, nó vẫn còn sống này.
+
+00:13:08.090 --> 00:13:11.369
+- Ôi trời, tuyệt quá đi!
+- Cô ấy giỏi quá đi mất.
+
+00:13:11.370 --> 00:13:13.249
+Cô ấy cứu được con chó rồi kìa.
+
+00:13:13.250 --> 00:13:16.010
+- Cô ấy giỏi quá đi!
+- Chuyện kỳ diệu gì thế này?
+
+00:13:26.440 --> 00:13:27.970
+Đến khi anh khỏe lại,
+
+00:13:28.280 --> 00:13:30.650
+thì để chúng tôi chăm sóc nó cho.
+
+00:13:31.080 --> 00:13:33.060
+Anh cứ đi điều trị nhé.
+
+00:13:42.890 --> 00:13:46.189
+Lính cứu hỏa Kang
+đã trở thành chủ đề nóng.
+
+00:13:46.190 --> 00:13:48.300
+Cô ấy được mệnh danh
+là lính cứu hỏa kỳ tích
+
+00:13:48.377 --> 00:13:51.420
+vì đến giờ vẫn chưa gặp phải
+trường hợp tử vong nào.
+
+00:13:51.540 --> 00:13:54.060
+U là trời!
+
+00:13:57.787 --> 00:13:59.469
+Em bị sếp nói nhiều lắm à?
+
+00:13:59.470 --> 00:14:01.810
+Lên thời sự rầm rộ cơ mà.
+
+00:14:01.930 --> 00:14:03.580
+Không tuân lệnh thì vẫn sai mà.
+
+00:14:03.659 --> 00:14:05.540
+Van xin mãi chẳng được đây.
+
+00:14:05.590 --> 00:14:07.797
+LÍNH CỨU HỎA KỲ TÍCH
+KHÔNG BỎ CUỘC TRONG BÃO LỮA
+
+00:14:07.830 --> 00:14:10.430
+ĐỘI PHẢN ỨNG HIỆN TRƯỜNG
+
+00:14:27.190 --> 00:14:28.284
+Bố ơi!
+
+00:14:29.400 --> 00:14:31.840
+Lần này bố cũng phù hộ cho con
+đúng không?
+
+00:14:42.698 --> 00:14:43.799
+À.
+
+00:14:50.880 --> 00:14:52.640
+Đằng nào bố cũng phù hộ cho con,
+
+00:14:53.490 --> 00:14:56.740
+thì bố cũng phải phù hộ
+cho trạm nghiên cứu Nam Cực nữa nhé.
