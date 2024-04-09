@@ -28,24 +28,5 @@
         </SegmentBase>
       </Representation>
     </AdaptationSet>
-    <!-- Audio -->
-    <AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="vie" label="Thuyết Minh" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
-      <Representation id="audio-vie-mp4a.40.2" codecs="mp4a.40.2" bandwidth="200087" audioSamplingRate="48000">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/>
-        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-audio-vie-mp4a.40.2.mp4</BaseURL>
-        <SegmentBase indexRange="627-7330">
-          <Initialization range="0-626"/>
-        </SegmentBase>
-      </Representation>
-    </AdaptationSet>
-    <AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="zho" label="Tiếng Gốc" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
-      <Representation id="audio-zho-mp4a.40.2" codecs="mp4a.40.2" bandwidth="196721" audioSamplingRate="48000">
-        <AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/>
-        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-audio-zho-mp4a.40.2.mp4</BaseURL>
-        <SegmentBase indexRange="627-7330">
-          <Initialization range="0-626"/>
-        </SegmentBase>
-      </Representation>
-    </AdaptationSet>
   </Period>
 </MPD>
