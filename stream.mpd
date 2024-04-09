@@ -47,18 +47,5 @@
         </SegmentBase>
       </Representation>
     </AdaptationSet>
-    <!-- Subtitles (Sidecar) -->
-    <AdaptationSet mimeType="text/vtt" contentType="text" lang="vi">
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
-      <Representation id="subtitles/vi" bandwidth="150">
-        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/subtitles/vi/0_H265Pre5PMsCupidInLove_2022_CN_4K_002.vie.vtt</BaseURL>
-      </Representation>
-    </AdaptationSet>
-    <AdaptationSet mimeType="text/vtt" contentType="text" lang="zh">
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
-      <Representation id="subtitles/zh" bandwidth="119">
-        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/subtitles/zh/1_H265Pre5PMsCupidInLove_2022_CN_4K_002.zho.vtt</BaseURL>
-      </Representation>
-    </AdaptationSet>
   </Period>
 </MPD>
