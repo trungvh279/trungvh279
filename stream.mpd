@@ -1,13 +1,63 @@
 <?xml version="1.0" ?>
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" minBufferTime="PT10.42S" mediaPresentationDuration="PT4M60.000S" type="static">
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" minBufferTime="PT4.00S" mediaPresentationDuration="PT37M2.520S" type="static">
   <Period>
     <!-- Video -->
     <AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="1080" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
-      <Representation id="video-avc1-1" codecs="avc1.64002A" width="640" height="360" scanType="progressive" frameRate="24" bandwidth="534030">
-        <BaseURL>https://vod05-cdn.fptplay.net/POVOD/encoded/2024/04/09/pre5pmscupidinlove-2022-cn-4k-002-1712633897/H264/media-video-avc1-1.mp4</BaseURL>
-        <SegmentBase indexRange="868-1247">
-          <Initialization range="0-867"/>
+      <Representation id="video-hvc1-1" codecs="hvc1.1.2.L63.90" width="640" height="360" scanType="progressive" frameRate="25" bandwidth="923240">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-video-hvc1-1.mp4</BaseURL>
+        <SegmentBase indexRange="939-7642">
+          <Initialization range="0-938"/>
         </SegmentBase>
+      </Representation>
+      <Representation id="video-hvc1-2" codecs="hvc1.1.2.L90.90" width="854" height="480" scanType="progressive" frameRate="25" bandwidth="1500388">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-video-hvc1-2.mp4</BaseURL>
+        <SegmentBase indexRange="945-7648">
+          <Initialization range="0-944"/>
+        </SegmentBase>
+      </Representation>
+      <Representation id="video-hvc1-3" codecs="hvc1.1.2.L93.90" width="1280" height="720" scanType="progressive" frameRate="25" bandwidth="2417978">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-video-hvc1-3.mp4</BaseURL>
+        <SegmentBase indexRange="942-7645">
+          <Initialization range="0-941"/>
+        </SegmentBase>
+      </Representation>
+      <Representation id="video-hvc1-4" codecs="hvc1.1.2.L120.90" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="3865496">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-video-hvc1-4.mp4</BaseURL>
+        <SegmentBase indexRange="942-7645">
+          <Initialization range="0-941"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <!-- Audio -->
+    <AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="vie" label="Thuyết Minh" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+      <Representation id="audio-vie-mp4a.40.2" codecs="mp4a.40.2" bandwidth="200087" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/>
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-audio-vie-mp4a.40.2.mp4</BaseURL>
+        <SegmentBase indexRange="627-7330">
+          <Initialization range="0-626"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="zho" label="Tiếng Gốc" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+      <Representation id="audio-zho-mp4a.40.2" codecs="mp4a.40.2" bandwidth="196721" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/>
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/media-audio-zho-mp4a.40.2.mp4</BaseURL>
+        <SegmentBase indexRange="627-7330">
+          <Initialization range="0-626"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+    <!-- Subtitles (Sidecar) -->
+    <AdaptationSet mimeType="text/vtt" contentType="text" lang="vi">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <Representation id="subtitles/vi" bandwidth="150">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/subtitles/vi/0_H265Pre5PMsCupidInLove_2022_CN_4K_002.vie.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="text/vtt" contentType="text" lang="zh">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <Representation id="subtitles/zh" bandwidth="119">
+        <BaseURL>https://vod03-cdn.fptplay.net/POVOD/encoded/2024/04/09/h265pre5pmscupidinlove-2022-cn-4k-002-1712639100/H265/subtitles/zh/1_H265Pre5PMsCupidInLove_2022_CN_4K_002.zho.vtt</BaseURL>
       </Representation>
     </AdaptationSet>
   </Period>
